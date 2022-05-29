@@ -23,7 +23,7 @@
 
 ## `FORK AND CHANGE SETTINGS`
 
-- OWNER NUMBER         [`CLICK HERE`](https://github.com/Neeraj-x0/Millie/blob/main/config.js#L2)
+- OWNER NUMBER         [`917994424896`](https://github.com/Neeraj-x0/Millie/blob/main/config.js#L2)
 - SESSION           [`Click Here`](https://github.com/Neeraj-x0/Millie/blob/main/session.data.json#L1)
 
 <div align="left">
